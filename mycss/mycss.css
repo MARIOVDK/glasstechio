@@ -28,6 +28,10 @@ a {
 	margin-left:20px
 }
 
+.navbar {
+    border: 0;
+}
+
 .carousel-inner img {
 	margin-top:1px;
 	width:100%;
