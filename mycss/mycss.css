@@ -1,28 +1,36 @@
-body{
+body {
 	/*background:url(../images/fondo_body.png);
 	background-size:auto;
 	background-repeat:no-repeat;
 	background-color:#787878;*/
 	background-color:#ffffff; 
-	}
+}
 
-a{
-	font-weight:bold}
-.container{
+a {
+	font-weight:bold
+}
+
+.container {
 	width:100%;
 	height:auto;
     background-color: transparent;
-	/*border:1px solid #CCCCCC;*/	
+	/*border:1px solid #CCCCCC;*/
+    padding: 0;
 }
-.navbar-default{
+
+.navbar-default {
 	margin-top:0px;
 	border-radius:0px;
 	background-color:#000000;
 }
+
 .navbar-nav{
-	margin-left:20px}
-.publicity img{
+	margin-left:20px
+}
+
+.carousel-inner img {
 	margin-top:1px;
 	width:100%;
 	margin-left:auto;
-	margin-right:auto}
+	margin-right:auto
+}
