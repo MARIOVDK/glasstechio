@@ -32,6 +32,15 @@ a {
     border: 0;
 }
 
+ul.navbar-nav li a {
+    height: 70px;
+}
+
+ul.navbar-nav li a {
+    display: flex;
+    align-items: center;
+}
+
 .carousel-inner img {
 	margin-top:1px;
 	width:100%;
