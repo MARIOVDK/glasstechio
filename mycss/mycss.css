@@ -38,6 +38,11 @@ ul.navbar-nav li a {
     align-items: center;
 }
 
+#logo {
+    height: 70px;
+    width: auto;
+}
+
 .navbar-header button{
     margin: 18px 15px 18px 0;
 }
