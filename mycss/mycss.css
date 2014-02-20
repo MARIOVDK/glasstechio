@@ -55,4 +55,19 @@ ul.navbar-nav li a {
 	margin-right:auto
 }
 
+.container-fluid{
+	margin-bottom:15px}
 
+.articles{
+	width: 32%;
+	height: 250px;
+	margin-left: 1%;
+	float: left;
+	background-color: #999999;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.panel-footer{
+	color:#999999;
+	background-color:#000000}
