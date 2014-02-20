@@ -3,7 +3,7 @@ body {
 	background-size:auto;
 	background-repeat:no-repeat;
 	background-color:#787878;*/
-	background-color:#ffffff; 
+
 }
 
 a {
@@ -19,13 +19,14 @@ a {
 }
 
 .navbar-default {
-	margin-top: 0px;
-	border-radius: 0px;
-	background-color: #000000;
+	margin-top: 1px;
+	border-radius: 1px;
+	background-color: black;
+    opacity:1.2;
 }
 
 .navbar-nav{
-	margin-left:0px
+	margin-left:1px
 }
 
 .navbar {
@@ -37,6 +38,7 @@ ul.navbar-nav li a {
     display: flex;
     align-items: center;
 	border-left:1px groove #CCCCCC;
+
 }
 
 #logo {
@@ -46,6 +48,7 @@ ul.navbar-nav li a {
 
 .navbar-header button{
     margin: 18px 15px 18px 0;
+
 }
 
 .carousel-inner img {
@@ -63,11 +66,33 @@ ul.navbar-nav li a {
 	height: 250px;
 	margin-left: 1%;
 	float: left;
-	background-color: #999999;
+	background-color:#3c763d ;
 	margin-top: auto;
 	margin-bottom: auto;
+    text-align: center;
+    font-family: monospace, monospace ;
+    font-weight: bold;
+    font-size: 32pt;
+    color: #ffffff;
+    border-radius: 12px;
+    opacity:0.6;
+    font-style: oblique;
 }
 
+
+
 .panel-footer{
-	color:#999999;
-	background-color:#000000}
+	color: #ffffff;
+	background-color:dimgray;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0.8;
+    font-style: italic;
+
+
+}
+
+
+
