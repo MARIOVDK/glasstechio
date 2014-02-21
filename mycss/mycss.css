@@ -1,3 +1,4 @@
+@import url("Roboto_Black/stylesheet.css");
 body {
 	/*background:url(../images/fondo_body.png);
 	background-size:auto;
@@ -46,9 +47,11 @@ ul.navbar-nav li a {
     height: 70px;
     display: flex;
     align-items: center;
-	border-left:1px groove #CCCCCC;
+	border-left:1px groove #FFFFFF;
 
 }
+#border_right{
+	border-right:1px groove #ffffff;}
 
 #logo {
     height: 70px;
@@ -92,14 +95,13 @@ ul.navbar-nav li a {
 
 .panel-footer{
 	color: #ffffff;
-	background-color:dimgray;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 24px;
-    font-weight: bold;
-    text-align: center;
-    opacity: 0.8;
-    font-style: italic;
-
+	background-color: dimgray;
+	font-family: "Roboto Black";
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	opacity: 0.8;
+	font-style: italic;
 
 }
 
