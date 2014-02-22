@@ -16,6 +16,7 @@ a {
 	border-radius: 1px;
 	background-color:dimgray ;
     color: #000000;
+
 }
 
 .navbar .nav > li > a {
@@ -40,6 +41,7 @@ ul.navbar-nav li a {
     display: flex;
     align-items: center;
 	border-left:1px groove #FFFFFF;
+
 
 }
 #border_right{
