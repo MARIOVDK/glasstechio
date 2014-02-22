@@ -276,10 +276,11 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-family: "Roboto Black";
+  font-size: 18px;
+  font-weight: bold;
   line-height: 1.42857143;
-  color: #c8c8c8;
+  color: #8a3dbf;
   background-color: #272b30;
 }
 input,
@@ -309,6 +310,7 @@ figure {
 }
 img {
   vertical-align: middle;
+
 }
 .img-responsive,
 .thumbnail > img,
