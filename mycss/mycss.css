@@ -6145,3 +6145,23 @@ legend {
 .affix {
   position: fixed;
 }
+
+#ico_facebook{
+	float:right;
+	width:20px;
+	height:20px;}
+
+#ico_twitter{
+	float:right;
+	width:20px;
+	height:20px;}
+	
+#ico_google{
+	float:right;
+	width:20px;
+	height:20px;}
+	
+#ico_blog{
+	float:right;
+	width:20px;
+	height:20px;}
