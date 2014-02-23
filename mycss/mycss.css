@@ -5688,12 +5688,12 @@ button.close {
     display: none !important;
   }
 }
-@media (min-width: 481px) and (max-width: 991px) {
+@media (min-width: 481px) and (max-width: 769px) {
   .hidden-sm {
     display: none !important;
   }
 }
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 780px) and (max-width: 1199px) {
   .hidden-md {
     display: none !important;
   }
