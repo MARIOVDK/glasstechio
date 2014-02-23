@@ -14,10 +14,10 @@ html {
 }
 body {
     margin: 0;
-    text-align: center;
+    text-align: justify;
     font-size: 18px;
     font-family: "Roboto Black";
-    color: hotpink;
+
 }
 
 article,
@@ -3470,6 +3470,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   display: block;
   padding: 10px 15px;
+  font-size:inherit;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
