@@ -771,6 +771,7 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+
 }
 .row {
   margin-left: -15px;
@@ -4796,8 +4797,12 @@ a.list-group-item-danger.active:focus {
 .panel-title > a {
   color: inherit;
 }
+#footer{
+  text-align: center;
+}
 .panel-footer {
   padding: 10px 15px;
+  text-align: center;
   background-color: #3e444c;
   border-top: 1px solid rgba(0, 0, 0, 0.6);
   border-bottom-right-radius: 3px;
@@ -5180,9 +5185,10 @@ button.close {
   padding: 20px;
 }
 .modal-footer {
+
   margin-top: 15px;
   padding: 19px 20px 20px;
-  text-align: right;
+  text-align: center;
   border-top: 1px solid #1c1e22;
 }
 .modal-footer .btn + .btn {
