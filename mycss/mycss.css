@@ -6165,3 +6165,41 @@ legend {
 	float:right;
 	width:20px;
 	height:20px;}
+	
+#seo_img{
+	border:none;
+	background-image:url(../images/img_thumbnail/SEO.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	box-shadow:1px 1px 20px 5px #000000;
+	}
+#des_web_img{
+	border:none;
+	background-image:url(../images/img_thumbnail/Des_Web.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	box-shadow:1px 1px 20px 5px #000000;}
+#web_app_img{
+	border:none;
+	background-image:url(../images/img_thumbnail/web_app.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	box-shadow:1px 1px 20px 5px #000000;}
+#desing_img{
+	border:none;
+	background-image:url(../images/img_thumbnail/desing.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	box-shadow:1px 1px 20px 5px #000000;}
+#hosting_img{
+	border:none;
+	background-image:url(../images/img_thumbnail/hosting.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	box-shadow:1px 1px 20px 5px #000000;}
+#integral_img{
+	border:none;
+	background-image:url(../images/img_thumbnail/integral_service.png);
+	background-size:cover;
+	background-repeat:no-repeat;
+	box-shadow:1px 1px 20px 5px #000000;}
