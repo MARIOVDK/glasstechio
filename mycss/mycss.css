@@ -4438,7 +4438,7 @@ a.thumbnail.active {
 }
 .thumbnail .caption {
   padding: 9px;
-  color: #c8c8c8;
+  color: #000000;
 }
 .alert {
   padding: 15px;
@@ -6146,26 +6146,28 @@ legend {
 .affix {
   position: fixed;
 }
-
+.navbar-nav > li > .ico{
+    padding: 5px;
+}
 #ico_facebook{
-	float:right;
-	width:20px;
-	height:20px;}
+	/*float:right;*/
+	width:40px;
+	height:40px;}
 
 #ico_twitter{
-	float:right;
-	width:20px;
-	height:20px;}
+	/*float:right;*/
+	width:40px;
+	height:40px;}
 	
 #ico_google{
-	float:right;
-	width:20px;
-	height:20px;}
+    /*float:right;*/
+	width:40px;
+	height:40px;}
 	
 #ico_blog{
-	float:right;
-	width:20px;
-	height:20px;}
+    /*float:right;*/
+	width:40px;
+	height:40px;}
 	
 #seo_img{
 	border:none;
@@ -6175,7 +6177,7 @@ legend {
 	box-shadow:1px 1px 20px 5px #000000;
 	}
 #des_web_img{
-	border:none;
+   	border:none;
 	background-image:url(../images/img_thumbnail/Des_Web.png);
 	background-size:cover;
 	background-repeat:no-repeat;
