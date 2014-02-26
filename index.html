@@ -75,7 +75,33 @@
                     <!-- Fin Modificar iconos de socila y ponerlos directamente en la nav-->
 
 
-                    <li><a href="#">Contacto</a></li>
+                    <li>
+                    	<a data-toggle="modal" href="#" data-target="#myModal">Contacto</a>
+                        	<div class="modal fade" id="myModal">
+                            	<div class="modal-dialog">
+                                	<div class="modal-content">
+                                    	
+                                        <div class="modal-header">Glasstechio información
+                                        	<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                                            	<span class="glyphicon glyphicon-remove"></span>
+                                            </button>
+                                        </div>
+                                        
+                                        <div class="modal-body">No dudes en consultar tus dudas.
+                                        	<form class="role">
+                                            	<div class="form-group">
+                                                    <label for="inputEmail">Introduzca su e-mail:</label>
+                                                    <input type="email" class="form-control" id="inputEmail" placeholder="Su e-mail, por favor">
+                                                </div>
+                                            </form>
+                                        </div>
+                                        
+                                        <div class="modal-footer">&copy; 2014</div>
+                                    </div>
+                                </div>
+                            </div>
+                    
+                    </li>
                     <!--<li><div id="google_translate_element"></div></li>-->
                 </ul>
             </div><!--fin div navbar-collapse--> 
@@ -162,8 +188,9 @@
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="dist/js/bootstrap.min.js"></script>
+    <script src="js/modal.js"></script>
     <script src="myjs/myjs.js"></script>
-    <script src=analaitycs/analaitycs>
+    <script src="analaitycs/analaitycs"></script>
 
 </body>
 </html>

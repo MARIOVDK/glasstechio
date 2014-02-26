@@ -6206,3 +6206,8 @@ legend {
 	background-size:cover;
 	background-repeat:no-repeat;
 	box-shadow:1px 1px 20px 5px #000000;}
+	
+.modal-content{
+	font-family:roboto;
+	color:#000000;
+	background-color:#FFFFFF;}
